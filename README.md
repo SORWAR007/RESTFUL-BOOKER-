@@ -1,5 +1,5 @@
 ## RESTFUL BOOKER(LOAD TEST)
-## PROJECT SUMMERY : The Restful Booker API is a sample API based on hotel bookings. The API contains endpoints to demonstrate CRUD operations and we perform the load test of three api's (user creattion,authorization,search booking threough jmeter.
+## PROJECT SUMMERY : The Restful Booker API is a sample API based on hotel bookings. The API contains endpoints to demonstrate CRUD operations and we perform the load test of three api's (user creattion,authorization,search booking through jmeter.
 ## TECHNOLOGIESWE USED:
 - Postman
 - Jmeter
