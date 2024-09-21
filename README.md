@@ -13,11 +13,14 @@
 - click command 'jmeter -n -t yourFile.jmx -l yourFile.csv -e -o Reports'
  - check html reports
 
-## OUTPUT
+## SUMMARY AND STATISTICS
 
 ![Screenshot (298)](https://github.com/user-attachments/assets/37e00e03-0fd2-4fd1-8f62-647d22c38dd2)
 
 ![Screenshot (297)](https://github.com/user-attachments/assets/f92ad1d7-7317-4026-9001-a890e6a73d92)
+
+
+## OUTPUT
 
 - LOAD 3400:
 ![3400](https://github.com/user-attachments/assets/ed0814d5-494c-4167-90f5-b69c870b7c10)
